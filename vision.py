@@ -22,7 +22,7 @@ def get_gemini_response(input,image):
 # Navbar
 st.set_page_config(
     page_title="Vision AI",
-    page_icon="letter "d" with an inner circle",
+    page_icon="📲",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
