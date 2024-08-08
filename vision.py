@@ -20,7 +20,7 @@ def get_gemini_response(input,image):
 ## initialize our streamlit app
 
 st.set_page_config(page_title="Farhan Image Bot")
-st.header("Farhan VisionGPT")
+st.header("Image to Text AI")
 input=st.text_input("Input Prompt: ",key="input")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
