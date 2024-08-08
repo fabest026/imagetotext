@@ -35,7 +35,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-</style>
 <h3 style="text-align: center; color: black; font-weight: 300; font-style: italic;">💥&nbsp;&nbsp;Powered By: AppJingle Solutions&nbsp;&nbsp;💥</h3>
 ''', unsafe_allow_html=True)
 
